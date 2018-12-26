@@ -8,9 +8,6 @@
 [![Commitizen friendly](https://img.shields.io/badge/commitizen-friendly-brightgreen.svg?style=flat-square)](http://commitizen.github.io/cz-cli/)
 [![MIT License](https://img.shields.io/npm/l/stack-overflow-copy-paste.svg?style=flat-square)](http://opensource.org/licenses/MIT)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
-[![Support via Paypal](https://img.shields.io/badge/support-paypal-yellowgreen.svg?style=flat-square)](https://www.paypal.me/KunalKapadia)
-
-[![Code Sponsor](https://app.codesponsor.io/embed/J9YBdeLoqYqrG8tmMKF4p6Pv/kunalkapadia/express-mongoose-es6-rest-api.svg)](https://app.codesponsor.io/link/J9YBdeLoqYqrG8tmMKF4p6Pv/kunalkapadia/express-mongoose-es6-rest-api)
 
 # [![Express ES6 REST API Starter](https://cloud.githubusercontent.com/assets/4172932/12660610/90f5b856-c63a-11e5-878e-c9f0bbf33090.jpg)](https://github.com/kunalkapadia/express-mongoose-es6-rest-api)
 
@@ -185,7 +182,5 @@ If this project saved your valuable time in getting your service up, and you fee
 
 Your support is greatly appreciated.
 
-## Meta
 
-Kunal Kapadia – [@kunalkapadia12](https://twitter.com/kunalkapadia12) – kunalkapadia12@gmail.com
 
